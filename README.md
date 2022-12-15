@@ -1,4 +1,7 @@
-# Hi there, I'm Joshua 👋
+<div id="header" align="center">
+
+</div>
+# Hi there, I'm Joshua  <img <h3 align="center"><samp>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, How you doin'? </samp></h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mozzie455&show_icons=true&theme=prussian"/>
 
