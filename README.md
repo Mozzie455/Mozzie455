@@ -15,9 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Get in Touch
+# Get in Touch
 Feel free to reach me out via :
-- Email : [farhan.y.pahlevi@gmail.com](mailto:farhan.y.pahlevi@gmail.com)
-- LinkedIn : [Farhan Yuda Pahlevi](https://www.linkedin.com/in/pahlevikun/)
-- Facebook : [Farhan Yuda Pahlevi](https://www.facebook.com/Pahlevikun/)
-- Personal Site : [Web app built using Flutter](http://www.pahlevikun.id/)
+- Email : [joshuamutiso455@gmail.com](mailto:joshuamutiso455@gmail.com)
+- LinkedIn : [Joshua Mutiso](www.linkedin.com/in/joshuamutiso)
