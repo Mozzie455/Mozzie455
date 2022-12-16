@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img width="47%" src="/tree.jpg">
+<img height = "30%" width="47%" src="/tree.jpg">
 </div>
 <img><samp> <h2>Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm Joshua  </samp></h2>
 
