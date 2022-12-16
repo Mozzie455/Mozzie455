@@ -1,11 +1,12 @@
 <div id="header" align="center">
-
+<img width="47%" src="/Mozzie455/tree.jpg">
+</div>
 <img><samp> <h2>Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm Joshua  </samp></h2>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mozzie455&show_icons=true&theme=prussian"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozzie455&theme=prussian&layout=compact"/>
-</div>
+
 
 
 <img  align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
