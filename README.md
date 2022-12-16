@@ -3,7 +3,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mozzie455&show_icons=true&theme=prussian"/>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozzie455&theme=prussian&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozzie455&theme=prussian&layout=compact"/>
 
 
 
