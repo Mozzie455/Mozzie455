@@ -1,7 +1,5 @@
-<div id="header" align="center">
-<img height = "10%" width="auto" src="/tree.jpg">
-</div>
-<img><samp> <h2>Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm Joshua  </samp></h2>
+
+<img align="left"><samp> <h2>Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm Joshua  </samp></h2>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mozzie455&show_icons=true&theme=prussian"/>
 
