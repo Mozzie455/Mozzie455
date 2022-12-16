@@ -1,5 +1,5 @@
 
-<img align="left"><samp> <h2>Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm Joshua  </samp></h2>
+<img align="left"><samp> <h1>Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm Joshua  </samp></h1>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mozzie455&show_icons=true&theme=prussian"/>
 
