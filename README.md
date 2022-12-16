@@ -18,4 +18,4 @@
 # Get in Touch
 Feel free to reach me out via :
 - Email : [joshuamutiso455@gmail.com](mailto:joshuamutiso455@gmail.com)
-- LinkedIn : [Joshua Mutiso](www.linkedin.com/in/joshuamutiso)
+- LinkedIn : [Joshua Mutiso](https://linkedin.com/in/joshuamutiso)
